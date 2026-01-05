@@ -8,6 +8,8 @@ Revenue analysis dashboard - https://github.com/viveganandr/Power-BI-Portfolio/b
 Call analysis dashboard - https://github.com/viveganandr/Power-BI-Portfolio/blob/750b969ff0504341c9ec65879e02df2c8922c34f/Calls%20analysis.jpg
 
 Uber Analysis dashboard - 
-Overview tab - https://github.com/viveganandr/Power-BI-Portfolio/blob/main/Uber%20analysis%20-%20Details%20tab.jpg
+Overview tab - https://github.com/viveganandr/Power-BI-Portfolio/blob/main/Uber%20analysis%20-%20Overview%20page.jpg
+
 Time Analysis - https://github.com/viveganandr/Power-BI-Portfolio/blob/main/Uber%20analysis%20-%20Time%20analysis.jpg
+
 Details tab - https://github.com/viveganandr/Power-BI-Portfolio/blob/main/Uber%20analysis%20-%20Details%20tab.jpg
